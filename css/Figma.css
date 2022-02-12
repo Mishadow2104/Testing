@@ -1,0 +1,146 @@
+
+@import "null.css";
+
+@font-face {
+	font-family: "CircularStd-Book";
+	src: url("../fonts/CircularStd-Book.woff") format("woff"), url("../fonts/CircularStd-Book.woff2") format("woff2");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "CircularStd-Medium";
+	src: url("../fonts/CircularStd-Medium.woff") format("woff"), url("../fonts/CircularStd-Medium.woff2") format("woff2");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "SybillaPro-Bold";
+	src: url("../fonts/SybillaPro-Bold.woff") format("woff"), url("../fonts/SybillaPro-Bold.woff2") format("woff2");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "CircularStd-Black";
+	src: url("../fonts/CircularStd-Black.woff") format("woff"), url("../fonts/CircularStd-Black.woff2") format("woff2");
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+body {
+	font-family: "CircularStd-Black", sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	
+}
+
+.wrapper-2 {
+	font-family: "Circular Std", sans-serif;
+	min-height: 100%;
+	overflow: hidden;
+	max-width: 1440px;
+	margin: auto;
+}
+.conteiner-2 {
+	max-width: 1025;
+	margin: auto;
+}
+
+.title {
+	font-family: "Circular Std", sans-serif;
+	font-style: medium;
+	font-weight: 700;
+	line-height: 82px;
+	font-size: 65px;
+	text-align: center;
+	color: #313131;
+	margin-bottom: 20px;
+
+	
+}
+.undertitle {
+	font-family: "Circular Std", sans-serif;
+	text-align: center;
+	max-width: 750px;
+	min-height: 50px;
+	margin: auto;
+	color: #5F5F5F;
+	font-size: 20px;
+	font-style: medium;
+	font-weight: 500;
+	margin-bottom: 224px;
+	line-height: 25px;
+
+
+}
+
+.discript {
+	margin-left: 207px;
+	max-width: 508px;
+}
+.great {
+	font-size: 34px;
+	font-weight: 700;
+	font-style: bold;
+	line-height: 44px;
+	margin-bottom: 20px;
+	color: #505050;
+}
+.discript-text {
+	font-size: 18px;
+	font-weight: 500;
+	font-style: medium;
+	line-height: 28px;
+	color: #5F5F5F;
+	margin-bottom: 125px;
+}
+.dragos {
+	font-size: 18px;
+	font-weight: 700;
+	font-style: normal;
+	line-height: 23px;
+	color: #505050;
+	margin-bottom: 5px;
+}
+.dragos-parafraph {
+	font-size: 18px;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 22px;
+	color: #B8B8B8;
+	margin-bottom: 67px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
